@@ -11,5 +11,5 @@ $ git push -u origin master
 $ npm run dev
 ```
 
-##  Watch on gitpages:
+##  Watch on github-pages:
  https://sden4.github.io/fixed-footer/dist
