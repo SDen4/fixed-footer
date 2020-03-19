@@ -1,6 +1,4 @@
-# Denis Skryabin
-
-##  Fixed footer:
+#  Fixed footer
 ```sh
 $ git clone https://github.com/SDen4/fixed-footer.git
 $ cd fixed-footer
@@ -11,5 +9,4 @@ $ git push -u origin master
 $ npm run dev
 ```
 
-##  Watch on github-pages:
- https://sden4.github.io/fixed-footer/dist
+##  Watch on [github-pages](https://sden4.github.io/fixed-footer/dist)

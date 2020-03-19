@@ -3,18 +3,19 @@ html(lang='en')
   head
     meta(charset='UTF-8')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
-    title Webpack Template
+    title fixed footer
   body
     .wrapper
       header.header Header
       .main-content
-        .block.block_1 Block1
-        .block.block_2 Block2
-        .block.block_3 Block3
+        .block.block_1
+          .block__content Block content
+        .block.block_2
+          .block__content Block content
+        .block.block_3
+          .block__content Block content
       footer.footer
-        .footer__part 
-          .footer__text Footer left part
-          a.footer__link Link Left
-        .footer__part 
-          .footer__text Footer right part
-          a.footer__link Link Right
+        .footer__part
+          a.footer__link Footer Link Left
+        .footer__part
+          a.footer__link Footer Link Right
